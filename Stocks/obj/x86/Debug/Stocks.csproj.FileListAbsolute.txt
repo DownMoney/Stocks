@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Stocks\Stocks\bin\Debug\Stocks.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Stocks\Stocks\bin\Debug\Stocks.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Stocks\Stocks\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Stocks\Stocks\obj\x86\Debug\Stocks.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Stocks\Stocks\obj\x86\Debug\Stocks.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\Stocks\Stocks\obj\x86\Debug\Stocks.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\Stocks\Stocks\obj\x86\Debug\Stocks.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\Stocks\Stocks\bin\Debug\Stocks.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\Stocks\Stocks\bin\Debug\Stocks.pdb
